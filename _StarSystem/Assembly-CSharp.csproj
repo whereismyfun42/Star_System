@@ -64,6 +64,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Camera\CameraControll.cs" />
+    <Compile Include="Assets\Scripts\Planets\AsteroidRotationComponent.cs" />
+    <Compile Include="Assets\Scripts\Planets\AsteroidRotationSystem.cs" />
+    <Compile Include="Assets\Scripts\Planets\AsteroidSpawner.cs" />
     <Compile Include="Assets\Scripts\Planets\Rotate.cs" />
     <Reference Include="Unity.Build.Internals">
       <HintPath>E:/Star System/Star_System/_StarSystem/Library/ScriptAssemblies/Unity.Build.Internals.dll</HintPath>
